@@ -7,6 +7,17 @@ I'm Nick, a full-stack web developer passionate about creating clean, fast, and 
 
 [PetStar](https://github.com/nwherman1724/rmp) - This project is a full-stack application built using Sequelize, Express.js, Javascript, Handlebars.js, and CSS. It posed a challenge that allowed me to grow my skills as my team and I built out the back-end and connected it to the front-end. 😎
 
+### 5 Things I can talk about anytime:
+1.) I am a christian. 🙏
+
+2.) I am a husband. 💍
+
+3.) I am a father. 👶
+
+4.) I love to play sports, especially volleyball and rock climbing. 🧗‍♂️
+
+5.) I love coffee. ☕
+
 ## Tech Stack 🚀
 ### Languages: 
 JavaScript, HTML, CSS
@@ -19,20 +30,6 @@ Node.js, Express.js
 
 ### Databases: 
 MongoDB, MySQL
-
-## About Me
-I have 2 years of experience as a front-end web developer and I am currently in the Michigan State Coding Bootcamp to hone my front-end skills and develop more back-end skills. I have worked on a wide range of projects, from small business websites to full-stack applications. My passion for building efficient and user-friendly applications has led me to continually learn and grow my skills in new technologies and frameworks. 💻
-
-### 5 Things I can talk about anytime:
-1.) I am a christian. 🙏
-
-2.) I am a husband. 💍
-
-3.) I am a father. 👶
-
-4.) I love to play sports, especially volleyball and rock climbing. 🧗‍♂️
-
-5.) I love coffee. ☕
 
 ## Contact 
 If you'd like to get in touch with me, feel free to reach out via [email](nwherman1724@gmail.com) or through my [LinkedIn profile](https://www.linkedin.com/in/nwherman1724/). Let's connect and talk about how we can create amazing web experiences together! 🤝

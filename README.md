@@ -7,16 +7,8 @@ I'm Nick, a full-stack web developer passionate about creating clean, fast, and 
 
 [PetStar](https://github.com/nwherman1724/rmp) - This project is a full-stack application built using Sequelize, Express.js, Javascript, Handlebars.js, and CSS. It posed a challenge that allowed me to grow my skills as my team and I built out the back-end and connected it to the front-end. 🤩
 
-### 5 Things I can talk about anytime:
-1.) I am a christian. 🙏
-
-2.) I am a husband. 💍
-
-3.) I am a father. 👶
-
-4.) I love to play sports, especially volleyball and rock climbing. 🧗‍♂️
-
-5.) I love coffee. ☕
+### Me in 5 Emojis
+🙏 💍 👶 🧗‍♂️ ☕
 
 ## Tech Stack 🚀
 ### Languages: 

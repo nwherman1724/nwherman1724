@@ -3,9 +3,9 @@
 I'm Nick, a full-stack web developer passionate about creating clean, fast, and efficient web applications. Here you'll find a showcase of my projects and a little bit about me. 🤖
 
 ## Projects
-[Team Profile Generator](https://github.com/nwherman1724/team-profile-generator) - This project is built using Node.js, Javascript, HTML, and CSS. It was a great opportunity to showcase my skills on the command line and in front-end development. 🤩
+[Team Profile Generator](https://github.com/nwherman1724/team-profile-generator) - This project is built using Node.js, Javascript, HTML, and CSS. It was a great opportunity to showcase my skills on the command line and in front-end development. 😎
 
-[PetStar](https://github.com/nwherman1724/rmp) - This project is a full-stack application built using Sequelize, Express.js, Javascript, Handlebars.js, and CSS. It posed a challenge that allowed me to grow my skills as my team and I built out the back-end and connected it to the front-end. 😎
+[PetStar](https://github.com/nwherman1724/rmp) - This project is a full-stack application built using Sequelize, Express.js, Javascript, Handlebars.js, and CSS. It posed a challenge that allowed me to grow my skills as my team and I built out the back-end and connected it to the front-end. 🤩
 
 ### 5 Things I can talk about anytime:
 1.) I am a christian. 🙏
